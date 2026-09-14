@@ -240,4 +240,4 @@ This repository serves as the official landing page for The Web Blocker. The sof
 **Get the most recent version of The Web Blocker today!**
 
 ---
-**Last updated:** 2026-09-13 22:46:15 UTC
+**Last updated:** 2026-09-14 00:35:23 UTC
